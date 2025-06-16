@@ -1,0 +1,10 @@
+*.o
+libft/libft.a
+infile
+appunti
+ls
+outfile
+supp.supp
+ciao
+.vscode
+*.txt
